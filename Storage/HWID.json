@@ -1,14 +1,14 @@
 {
   "banned_hwids": {
     "7b33353434616138642d373062632d313166312d613638382d3830366536663665363936337d": {
-      "username": "SchoolaccountUSA2",
-      "displayName": "SchoolaccountUSA2",
-      "userId": 5511439273,
+      "username": "SchoolAccountUSA",
+      "displayName": "SchoolAccountUSA",
+      "userId": 5510227144,
       "bannedAt": 1793136559,
       "reason": "Banned by admin",
       "status": "banned",
-      "hitCount": 1,
-      "lastSeen": 1793136568,
+      "hitCount": 2,
+      "lastSeen": 1793136682,
       "accounts": {
         "5511439273": {
           "username": "SchoolaccountUSA2",
@@ -16,6 +16,20 @@
           "userId": 5511439273,
           "firstSeen": 1793136568,
           "lastSeen": 1793136568,
+          "hits": 1,
+          "executors": [
+            "Real"
+          ],
+          "games": [
+            "?"
+          ]
+        },
+        "5510227144": {
+          "username": "SchoolAccountUSA",
+          "displayName": "SchoolAccountUSA",
+          "userId": 5510227144,
+          "firstSeen": 1793136682,
+          "lastSeen": 1793136682,
           "hits": 1,
           "executors": [
             "Real"
@@ -35,6 +49,19 @@
           "placeId": 6929018183,
           "jobId": "fd7d7e4f-8e19-409d-9283-dfec918e7df1",
           "timestamp": 1793136568,
+          "changed": true,
+          "newAccount": true,
+          "target": "banned"
+        },
+        {
+          "username": "SchoolAccountUSA",
+          "displayName": "SchoolAccountUSA",
+          "userId": 5510227144,
+          "executor": "Real",
+          "gameName": "?",
+          "placeId": 915908649,
+          "jobId": "977644a2-deed-4984-a0e0-4a6bdcde65e8",
+          "timestamp": 1793136682,
           "changed": true,
           "newAccount": true,
           "target": "banned"
