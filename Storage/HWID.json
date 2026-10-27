@@ -1,4 +1,16 @@
 {
-  "banned_hwids": {},
+  "banned_hwids": {
+    "{\n  \"banned_hwids\": {},\n  \"violations\": {}\n}": {
+      "username": "?",
+      "displayName": "?",
+      "userId": 0,
+      "bannedAt": 1793138446,
+      "reason": "Banned by admin",
+      "status": "banned",
+      "hitCount": 0,
+      "lastSeen": 1793138446,
+      "accounts": {}
+    }
+  },
   "violations": {}
 }
