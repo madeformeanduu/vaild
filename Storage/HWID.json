@@ -1,16 +1,45 @@
 {
   "banned_hwids": {
     "7b33353434616138642d373062632d313166312d613638382d3830366536663665363936337d": {
-      "username": "?",
-      "displayName": "?",
-      "userId": 0,
+      "username": "SchoolaccountUSA2",
+      "displayName": "SchoolaccountUSA2",
+      "userId": 5511439273,
       "bannedAt": 1793136559,
       "reason": "Banned by admin",
       "status": "banned",
-      "hitCount": 0,
-      "lastSeen": 1793136559,
-      "accounts": {},
-      "attempts": [],
+      "hitCount": 1,
+      "lastSeen": 1793136568,
+      "accounts": {
+        "5511439273": {
+          "username": "SchoolaccountUSA2",
+          "displayName": "SchoolaccountUSA2",
+          "userId": 5511439273,
+          "firstSeen": 1793136568,
+          "lastSeen": 1793136568,
+          "hits": 1,
+          "executors": [
+            "Real"
+          ],
+          "games": [
+            "?"
+          ]
+        }
+      },
+      "attempts": [
+        {
+          "username": "SchoolaccountUSA2",
+          "displayName": "SchoolaccountUSA2",
+          "userId": 5511439273,
+          "executor": "Real",
+          "gameName": "?",
+          "placeId": 6929018183,
+          "jobId": "fd7d7e4f-8e19-409d-9283-dfec918e7df1",
+          "timestamp": 1793136568,
+          "changed": true,
+          "newAccount": true,
+          "target": "banned"
+        }
+      ],
       "rebanHistory": []
     }
   },
