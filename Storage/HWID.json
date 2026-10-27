@@ -1,13 +1,12 @@
 {
-  "banned_hwids": {},
-  "violations": {
+  "banned_hwids": {
     "7b33353434616138642d373062632d313166312d613638382d3830366536663665363936337d": {
       "username": "SchoolAccountUSA",
       "displayName": "SchoolAccountUSA",
       "userId": 5510227144,
       "bannedAt": 1793136559,
       "reason": "Banned by admin",
-      "status": "unbanned",
+      "status": "banned",
       "hitCount": 2,
       "lastSeen": 1793136682,
       "accounts": {
@@ -68,13 +67,20 @@
           "target": "banned"
         }
       ],
-      "rebanHistory": [],
+      "rebanHistory": [
+        {
+          "reason": "Banned by admin",
+          "at": 1793137102
+        }
+      ],
       "unbannedAt": 1793136714,
       "unbanHistory": [
         {
           "at": 1793136714
         }
-      ]
+      ],
+      "rebannedAt": 1793137102
     }
-  }
+  },
+  "violations": {}
 }
