@@ -1,17 +1,5 @@
 {
-  "banned_hwids": {
-    "7b33353434616138642d373062632d313166312d613638382d3830366536663665363936337d": {
-      "username": "?",
-      "displayName": "?",
-      "userId": 0,
-      "bannedAt": 1793138822,
-      "reason": "Banned by admin",
-      "status": "banned",
-      "hitCount": 0,
-      "lastSeen": 1793138822,
-      "accounts": {}
-    }
-  },
+  "banned_hwids": {},
   "violations": {
     "{\n  \"banned_hwids\": {},\n  \"violations\": {}\n}": {
       "username": "?",
@@ -24,6 +12,18 @@
       "lastSeen": 1793138446,
       "accounts": {},
       "unbannedAt": 1793138466
+    },
+    "7b33353434616138642d373062632d313166312d613638382d3830366536663665363936337d": {
+      "username": "?",
+      "displayName": "?",
+      "userId": 0,
+      "bannedAt": 1793138822,
+      "reason": "Banned by admin",
+      "status": "unbanned",
+      "hitCount": 0,
+      "lastSeen": 1793138822,
+      "accounts": {},
+      "unbannedAt": 1793138841
     }
   }
 }
