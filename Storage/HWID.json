@@ -1,12 +1,21 @@
 {
   "banned_hwids": {
     "7b33353434616138642d373062632d313166312d613638382d3830366536663665363936337d": {
-      "username": "?",
-      "displayName": "?",
-      "userId": 0,
+      "username": "SchoolAccountUSA",
+      "displayName": "SchoolAccountUSA",
+      "userId": 5510227144,
       "bannedAt": 1793073161,
       "reason": "Banned by admin",
-      "attempts": []
+      "attempts": [
+        {
+          "username": "?",
+          "displayName": "?",
+          "userId": 0,
+          "timestamp": 1793073174,
+          "executor": "Real",
+          "hwid": "7b33353434616138642d373062632d313166312d613638382d3830366536663665363936337d"
+        }
+      ]
     }
   }
 }
