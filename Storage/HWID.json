@@ -1,3 +1,12 @@
 {
-  "banned_hwids": {7b33353434616138642d373062632d313166312d613638382d3830366536663665363936337d}
+  "banned_hwids": {
+    "7b33353434616138642d373062632d313166312d613638382d3830366536663665363936337d": {
+      "username": "example",
+      "displayName": "example3",
+      "userId": 123456789,
+      "bannedAt": 1730000000,
+      "reason": "Tried to bypass auth",
+      "attempts": []
+    }
+  }
 }
