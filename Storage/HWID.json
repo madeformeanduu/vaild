@@ -1,21 +1,13 @@
 {
   "banned_hwids": {
-    "abc123def456...": {
+    "7b33353434616138642d373062632d313166312d613638382d3830366536663665363936337d": {
       "username": "example",
       "displayName": "example3",
       "userId": 123456789,
       "bannedAt": 1730000000,
       "reason": "Tried to bypass auth",
-      "attempts": [
-        {
-          "username": "Alt1",
-          "userId": 987654321,
-          "displayName": "Alt Account",
-          "timestamp": 1730001000,
-          "executor": "Wave",
-          "hwid": "abc123def456..."
-        }
-      ]
+      "attempts": []
     }
   }
 }
+
