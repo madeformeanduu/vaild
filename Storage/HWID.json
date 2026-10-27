@@ -7,8 +7,8 @@
       "bannedAt": 1793136559,
       "reason": "Vaildation",
       "status": "banned",
-      "hitCount": 4,
-      "lastSeen": 1793137166,
+      "hitCount": 5,
+      "lastSeen": 1793137515,
       "accounts": {
         "5511439273": {
           "username": "SchoolaccountUSA2",
@@ -29,8 +29,8 @@
           "displayName": "SchoolAccountUSA",
           "userId": 5510227144,
           "firstSeen": 1793136682,
-          "lastSeen": 1793137166,
-          "hits": 3,
+          "lastSeen": 1793137515,
+          "hits": 4,
           "executors": [
             "Real"
           ],
@@ -89,6 +89,19 @@
           "placeId": 915908649,
           "jobId": "977644a2-deed-4984-a0e0-4a6bdcde65e8",
           "timestamp": 1793137166,
+          "changed": false,
+          "newAccount": false,
+          "target": "banned"
+        },
+        {
+          "username": "SchoolAccountUSA",
+          "displayName": "SchoolAccountUSA",
+          "userId": 5510227144,
+          "executor": "Real",
+          "gameName": "Ugc",
+          "placeId": 123974602339071,
+          "jobId": "14625828-8f50-4d21-8431-fa58c7f272b4",
+          "timestamp": 1793137515,
           "changed": false,
           "newAccount": false,
           "target": "banned"
