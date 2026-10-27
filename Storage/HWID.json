@@ -5,7 +5,7 @@
       "displayName": "SchoolAccountUSA",
       "userId": 5510227144,
       "bannedAt": 1793136559,
-      "reason": "Banned by admin",
+      "reason": "Vaildation",
       "status": "banned",
       "hitCount": 4,
       "lastSeen": 1793137166,
@@ -106,7 +106,20 @@
           "at": 1793136714
         }
       ],
-      "rebannedAt": 1793137102
+      "rebannedAt": 1793137102,
+      "editHistory": [
+        {
+          "at": 1793137498,
+          "by": "6x94",
+          "changes": [
+            {
+              "field": "reason",
+              "old": "Banned by admin",
+              "new": "Vaildation"
+            }
+          ]
+        }
+      ]
     }
   },
   "violations": {}
