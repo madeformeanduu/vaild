@@ -1,17 +1,5 @@
 {
-  "banned_hwids": {
-    "<hwid>": {
-      "username": "...",
-      "userId": 123,
-      "status": "banned",
-      "accounts": { "<uid>": {...} },
-      "linkedHwids": ["<hwid1>", "<hwid2>"]
-    }
-  },
-  "violations": {
-    "<hwid>": { ... }
-  },
-  "linkedHwids": {
-    "<userId>": ["<hwid1>", "<hwid2>", "<hwid3>"]
-  }
+  "banned_hwids": {},
+  "violations": {},
+  "linkedHwids": {}
 }
