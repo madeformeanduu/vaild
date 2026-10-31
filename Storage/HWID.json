@@ -7,8 +7,8 @@
       "bannedAt": 1793481824,
       "reason": "hookfunction attempt on HTTP function",
       "status": "banned",
-      "hitCount": 12,
-      "lastSeen": 1793482886,
+      "hitCount": 13,
+      "lastSeen": 1793482927,
       "linkedHwids": [
         "e022c8c1450ac6c8f0b4070535e7bb2dfef71104a09ab6957c671fdb372f9c8f"
       ],
