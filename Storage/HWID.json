@@ -7,8 +7,8 @@
       "bannedAt": 1793481824,
       "reason": "hookfunction attempt on HTTP function",
       "status": "banned",
-      "hitCount": 31,
-      "lastSeen": 1793484927,
+      "hitCount": 32,
+      "lastSeen": 1793484996,
       "linkedHwids": [
         "e022c8c1450ac6c8f0b4070535e7bb2dfef71104a09ab6957c671fdb372f9c8f"
       ],
@@ -18,8 +18,8 @@
           "displayName": "bedbites",
           "userId": 5513398112,
           "firstSeen": 1793481824,
-          "lastSeen": 1793484927,
-          "hits": 22,
+          "lastSeen": 1793484996,
+          "hits": 23,
           "executors": [
             "Real"
           ],
