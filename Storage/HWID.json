@@ -1,15 +1,14 @@
 {
-  "banned_hwids": {},
-  "violations": {
+  "banned_hwids": {
     "e022c8c1450ac6c8f0b4070535e7bb2dfef71104a09ab6957c671fdb372f9c8f": {
       "username": "SchoolDatabase",
       "displayName": "bedbites",
       "userId": 5513398112,
       "bannedAt": 1793481824,
       "reason": "hookmetamethod attempt on __namecall",
-      "status": "unbanned",
-      "hitCount": 40,
-      "lastSeen": 1793491100,
+      "status": "banned",
+      "hitCount": 41,
+      "lastSeen": 1793491394,
       "linkedHwids": [
         "e022c8c1450ac6c8f0b4070535e7bb2dfef71104a09ab6957c671fdb372f9c8f"
       ],
@@ -30,9 +29,10 @@
         }
       },
       "unbannedAt": 1793491339,
-      "rebannedAt": 1793491100
+      "rebannedAt": 1793491394
     }
   },
+  "violations": {},
   "linkedHwids": {
     "5513398112": [
       "e022c8c1450ac6c8f0b4070535e7bb2dfef71104a09ab6957c671fdb372f9c8f"
