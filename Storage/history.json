@@ -100,5 +100,13 @@
       }
     ]
   },
-  "rebans": {}
+  "rebans": {
+    "e022c8c1450ac6c8f0b4070535e7bb2dfef71104a09ab6957c671fdb372f9c8f": [
+      {
+        "at": 1793601732,
+        "reason": "Banned by admin",
+        "by": "6x94"
+      }
+    ]
+  }
 }
