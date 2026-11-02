@@ -420,6 +420,21 @@
         "hwid": "e022c8c1450ac6c8f0b4070535e7bb2dfef71104a09ab6957c671fdb372f9c8f",
         "linkedVia": null,
         "target": "banned"
+      },
+      {
+        "username": "SchoolDatabase",
+        "displayName": "bedbites",
+        "userId": 5513398112,
+        "executor": "unknown",
+        "gameName": "Ugc",
+        "placeId": 104769030382243,
+        "jobId": "cd176510-2910-43c2-b1f5-947cd9f82b51",
+        "timestamp": 1793601740,
+        "changed": false,
+        "newAccount": false,
+        "hwid": "e022c8c1450ac6c8f0b4070535e7bb2dfef71104a09ab6957c671fdb372f9c8f",
+        "linkedVia": null,
+        "target": "banned"
       }
     ]
   }
